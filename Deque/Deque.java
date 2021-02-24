@@ -2,9 +2,7 @@
 //  Deque.java
 //
 //  AUTHOR: DUSTIN KABAN
-//  ID: T00663749
 //  DATE: FEBRUARY 24th, 2021
-//  COURSE: COMP 2231, ASSIGNMENT 2: QUESTION 3
 //
 //  This class handles all the functionality of the Deque.  Special functionality includes
 //  adding, removing, and peeking at elements from the front or rear of the queue.
