@@ -2,9 +2,7 @@
 //  DequeADT.java
 //
 //  AUTHOR: DUSTIN KABAN
-//  ID: T00663749
 //  DATE: FEBRUARY 24th, 2021
-//  COURSE: COMP 2231, ASSIGNMENT 2: QUESTION 3
 //
 //  This is the interface for setting up the Deque functionality.  We've added special functionality
 //  that allows the user to add elements to the front and rear of the queue, as well as remove from
