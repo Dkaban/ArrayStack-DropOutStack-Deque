@@ -2,9 +2,7 @@
 //  LinkedStackDriver.java
 //
 //  AUTHOR: DUSTIN KABAN
-//  ID: T00663749
 //  DATE: FEBRUARY 23rd, 2021
-//  COURSE: COMP 2231, ASSIGNMENT 2: QUESTION 2
 //
 //  This driver class demonstrates how a modified version of a LinkedStack works and displays
 //  information to the user.  More information about how the modified DropOutLinkedStack works is contained
