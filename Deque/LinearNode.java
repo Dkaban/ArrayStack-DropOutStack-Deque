@@ -2,9 +2,7 @@
 //  Deque.java
 //
 //  AUTHOR: DUSTIN KABAN
-//  ID: T00663749
 //  DATE: FEBRUARY 24th, 2021
-//  COURSE: COMP 2231, ASSIGNMENT 2: QUESTION 3
 //
 //  This class has been modified to include getPrevious and setPrevious functionality for use in
 //  our modified Deque class.
