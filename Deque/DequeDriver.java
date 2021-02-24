@@ -2,9 +2,7 @@
 //  DequeDriver.java
 //
 //  AUTHOR: DUSTIN KABAN
-//  ID: T00663749
 //  DATE: FEBRUARY 23rd, 2021
-//  COURSE: COMP 2231, ASSIGNMENT 2: QUESTION 3
 //
 //  This class demonstrates the functionality of the modified version of the Deque to the user.
 //  We display enqueueing from the front and rear, de-queuing from the front and rear,
