@@ -2,9 +2,7 @@
 //  ArrayStack.java
 //
 //  AUTHOR: DUSTIN KABAN
-//  ID: T00663749
 //  DATE: FEBRUARY 22nd, 2021
-//  COURSE: COMP 2231, ASSIGNMENT 2: QUESTION 1
 //
 //  This class is a modified version of an Array Stack which maintains the top position
 //  as the actual top of the stack (instead of using the element above the top).  Then top is
