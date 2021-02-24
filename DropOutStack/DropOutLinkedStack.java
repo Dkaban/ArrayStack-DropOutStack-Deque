@@ -2,9 +2,7 @@
 //  DropOutLinkedStack.java
 //
 //  AUTHOR: DUSTIN KABAN
-//  ID: T00663749
 //  DATE: FEBRUARY 23rd, 2021
-//  COURSE: COMP 2231, ASSIGNMENT 2: QUESTION 2
 //
 //  This class is a modified version of a LinkedStack.  It maintains a constant size and essentially
 //  nulls out the 'oldest' element in the stack to allow placement of a new node.
