@@ -2,9 +2,7 @@
 //  ArrayStackDriver.java
 //
 //  AUTHOR: DUSTIN KABAN
-//  ID: T00663749
 //  DATE: FEBRUARY 22nd, 2021
-//  COURSE: COMP 2231, ASSIGNMENT 2: QUESTION 1
 //
 //  This is the driver class for demonstrating a modified version of the ArrayStack method where the top element
 //  is actually the top (instead of above the top).  Displays outputs to the user and also shows that
